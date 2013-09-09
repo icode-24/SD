@@ -8,5 +8,6 @@ namespace SD.Core
 {
     public class Class1
     {
+
     }
 }
